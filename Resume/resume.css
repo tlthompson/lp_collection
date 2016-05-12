@@ -1,0 +1,37 @@
+body		{
+			font-family:"Arial", "Helvetica", "sans-serif";
+			background: url('images/waves.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			}
+header		{
+			font-weight:bold; 
+			font-size: 22px;
+			text-decoration:none;
+			width: 800px;
+			padding:20px;
+			}
+					
+#category	{
+			font-size: 12px;
+			font-weight: bold;
+			}
+#knowledge	{
+			font-size:20px;
+			text-decoration: none;
+			}
+section		{
+			width: 800px;
+			padding: 20px;
+			}
+a:link		{
+			color: #42413C;
+			text-decoration: underline; 
+			}
+a:hover		{
+			color: brown; 
+			text-decoration: none;
+			}
+footer		{
+			font-size:10px;
+			}	
